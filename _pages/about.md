@@ -8,8 +8,8 @@ redirect_from:
 classes: wide
 ---
 
-My name is Lola Le Breton. I am a graduate research student working at Mila - Quebec AI Institute under the supervision of Prof. Sarath Chandar and studying at Polytechnique Montréal.
+My name is Lola Le Breton. I am a PhD candidate working at Mila - Quebec AI Institute under the supervision of Prof. Sarath Chandar.
 
-Before Montréal, I graduated from the engineering cursus (M.Sc.) of Polytechnique France with a focus on Applied Mathematics and Computer Science.
+Before Montréal, I graduated from the engineering cursus (M.Sc.) of Ecole Polytechnique (France, Palaiseau) with a focus on Applied Mathematics and Computer Science.
 
 Outside of the lab, I enjoy hiking, theatre and music.
